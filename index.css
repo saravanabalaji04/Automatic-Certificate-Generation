@@ -1,0 +1,37 @@
+.forms
+{
+    
+    margin-left: 400px;
+    margin-right: auto;
+    margin-top: 100px;
+    display: block;
+}
+.dropdown-toggle::after {
+    content: none;
+}
+@media  screen and (min-width:993px) {
+    .dropdown:hover .dropdown-menu{
+        display: block !important;
+    }
+    .dropdown:hover .dropdown-menu{
+        display: block !important;
+    }
+    .dropdown:hover .dropdown-menu{
+        display: block !important;
+    }
+}
+.input
+{
+    width:400px;
+    margin:0 auto;
+    padding-top: 100px;
+}
+.navbar-brand
+{
+    font-variant-caps: small-caps;
+}
+.nav-item
+{
+    font-variant-caps: small-caps;
+}
+
