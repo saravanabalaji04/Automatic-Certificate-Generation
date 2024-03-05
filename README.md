@@ -1,4 +1,5 @@
 **Index.html** was the starting page
+
 In that collecting user details and send it to the **insert.php** 
 in **insert.php** i included the **connect.php** file
 in **connect.php** database conncection only happen
