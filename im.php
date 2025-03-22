@@ -47,4 +47,5 @@ if (isset($_POST["submit"]))
     // header('Content-Type: image/jpg');
     // imagejpeg($image);
 }
+$conn->close();
 ?>
